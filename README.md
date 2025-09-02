@@ -50,3 +50,12 @@ External Dependencies
     UI Components: Radix UI primitives for accessible component foundation
     Development Tools: Vite for frontend bundling, esbuild for backend bundling
     Monitoring: Replit-specific development tools and error tracking
+
+WEBSITE UI
+<img width="1171" height="826" alt="MCAid1" src="https://github.com/user-attachments/assets/b2f44ba1-fe8b-425c-8057-ccedf34fa553" />
+
+PITCH DECK
+
+https://www.canva.com/design/DAGxzoqXFS8/Y7LQ_2Lx0MTwznMJzxhRAQ/edit?utm_content=DAGxzoqXFS8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
